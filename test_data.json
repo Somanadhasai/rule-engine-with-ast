@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "age": 35,
+            "department": "Sales",
+            "salary": 60000,
+            "experience": 6
+        },
+        {
+            "age": 22,
+            "department": "Marketing",
+            "salary": 25000,
+            "experience": 2
+        },
+        {
+            "age": 29,
+            "department": "Sales",
+            "salary": 45000,
+            "experience": 3
+        },
+        {
+            "age": 40,
+            "department": "Marketing",
+            "salary": 70000,
+            "experience": 10
+        }
+    ]
+}
